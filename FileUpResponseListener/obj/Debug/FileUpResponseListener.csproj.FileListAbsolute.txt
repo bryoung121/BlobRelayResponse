@@ -1,0 +1,9 @@
+C:\Users\briany\source\repos\FileUpResponseListener\FileUpResponseListener\bin\Debug\FileUpResponseListener.exe.config
+C:\Users\briany\source\repos\FileUpResponseListener\FileUpResponseListener\bin\Debug\FileUpResponseListener.exe
+C:\Users\briany\source\repos\FileUpResponseListener\FileUpResponseListener\bin\Debug\FileUpResponseListener.pdb
+C:\Users\briany\source\repos\FileUpResponseListener\FileUpResponseListener\bin\Debug\Microsoft.Azure.Relay.dll
+C:\Users\briany\source\repos\FileUpResponseListener\FileUpResponseListener\bin\Debug\Microsoft.Azure.Relay.xml
+C:\Users\briany\source\repos\FileUpResponseListener\FileUpResponseListener\obj\Debug\FileUpResponseListener.csprojAssemblyReference.cache
+C:\Users\briany\source\repos\FileUpResponseListener\FileUpResponseListener\obj\Debug\FileUpResponseListener.csproj.CopyComplete
+C:\Users\briany\source\repos\FileUpResponseListener\FileUpResponseListener\obj\Debug\FileUpResponseListener.exe
+C:\Users\briany\source\repos\FileUpResponseListener\FileUpResponseListener\obj\Debug\FileUpResponseListener.pdb
